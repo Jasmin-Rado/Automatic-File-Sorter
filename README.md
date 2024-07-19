@@ -1,4 +1,4 @@
-# Automation-File-Sorter-Project
+# Automation-File-Sorter-Project (PYTHON)
 
 Link to the code: https://github.com/Jasmin-Rado/Automation-File-Sorter-Project/blob/main/File%20Automatization.ipynb
 
